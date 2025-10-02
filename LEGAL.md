@@ -6,6 +6,7 @@
 - [Meergo API](#meergo-api)
 - [RudderStack](#rudderstack)
 - [Segment](#segment)
+- [TypeScript](#typescript)
 
 ## CSV
 
@@ -69,5 +70,15 @@ The Segment logo is copyright Twilio Inc.
 Icon License:
   Author: https://www.svgrepo.com/svg/331571/segment
   License: CC0 (https://creativecommons.org/public-domain/cc0/)
+```
+
+## TypeScript
+
+```
+The TypeScript logo is copyright Microsoft Corporation.
+
+Icon License:
+  Author: https://www.svgrepo.com/author/vscode-icons/
+  License: MIT
 ```
 
