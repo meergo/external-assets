@@ -1,14 +1,14 @@
-- [CSV](#csv)
-- [Excel](#excel)
-- [HTTP GET](#http-get)
-- [HTTP POST](#http-post)
-- [JSON](#json)
-- [Meergo API](#meergo-api)
-- [RudderStack](#rudderstack)
-- [Segment](#segment)
-- [TypeScript](#typescript)
+- [csv.svg](#csvsvg)
+- [excel.svg](#excelsvg)
+- [http-get.svg](#http-getsvg)
+- [http-post.svg](#http-postsvg)
+- [json.svg](#jsonsvg)
+- [meergo-api.svg](#meergo-apisvg)
+- [rudderstack.svg](#rudderstacksvg)
+- [segment.svg](#segmentsvg)
+- [typescript.svg](#typescriptsvg)
 
-## CSV
+## csv.svg
 
 ```
 Icon License:
@@ -16,7 +16,7 @@ Icon License:
   License: Attribution-NoDerivatives 4.0 International (https://creativecommons.org/licenses/by-nd/4.0/legalcode)
 ```
 
-## Excel
+## excel.svg
 
 ```
 Icon License:
@@ -24,7 +24,7 @@ Icon License:
   License: MIT (https://github.com/vscode-icons/vscode-icons/blob/63a4a33b35b50d243716d03b95a955e49db97662/LICENSE)
 ```
 
-## HTTP GET
+## http-get.svg
 
 ```
 Icon License:
@@ -32,7 +32,7 @@ Icon License:
   License: CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/)
 ```
 
-## HTTP POST
+## http-post.svg
 
 ```
 Icon License:
@@ -40,7 +40,7 @@ Icon License:
   License: CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/)
 ```
 
-## JSON
+## json.svg
 
 ```
 Icon License:
@@ -48,7 +48,7 @@ Icon License:
   License: MIT (https://opensource.org/license/mit/)
 ```
 
-## Meergo API
+## meergo-api.svg
 
 ```
 Icon License:
@@ -56,13 +56,13 @@ Icon License:
   License: Attribution CC BY
 ```
 
-## RudderStack
+## rudderstack.svg
 
 ```
 The RudderStack logo is copyright RudderStack Inc.
 ```
 
-## Segment
+## segment.svg
 
 ```
 The Segment logo is copyright Twilio Inc.
@@ -72,7 +72,7 @@ Icon License:
   License: CC0 (https://creativecommons.org/public-domain/cc0/)
 ```
 
-## TypeScript
+## typescript.svg
 
 ```
 The TypeScript logo is copyright Microsoft Corporation.
