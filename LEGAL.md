@@ -9,7 +9,7 @@
 - [http-post.svg](#http-postsvg)
 - [json.svg](#jsonsvg)
 - [meergo-api.svg](#meergo-apisvg)
-- [plug.svg](#plugsvg)
+- [ui-sample.svg](#ui-samplesvg)
 - [rudderstack.svg](#rudderstacksvg)
 - [segment.svg](#segmentsvg)
 - [shopify.svg](#shopifysvg)
@@ -93,7 +93,7 @@ Icon License:
   License: Attribution CC BY
 ```
 
-## plug.svg
+## ui-sample.svg
 
 ```
 Icon License:
