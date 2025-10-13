@@ -1,0 +1,29 @@
+#
+# Copyright (c) 2025 Open2b Software Snc. All Rights Reserved.
+#
+# WARNING: This software is protected by international copyright laws.
+# Redistribution in part or in whole strictly prohibited.
+#
+
+on:
+  push:
+
+jobs:
+  validate-and-format:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.25"
+
+      - name: Validate and format JSON file
+        working-directory: potential-connectors/fmt-and-validate
+        run: go run .
+
+      - name: Check that the repository is clean
+        uses: numtide/clean-git-action@v2
