@@ -9,6 +9,7 @@
 - [http-post.svg](#http-postsvg)
 - [json.svg](#jsonsvg)
 - [meergo-api.svg](#meergo-apisvg)
+- [plug.svg](#plugsvg)
 - [rudderstack.svg](#rudderstacksvg)
 - [segment.svg](#segmentsvg)
 - [shopify.svg](#shopifysvg)
@@ -90,6 +91,14 @@ Icon License:
 Icon License:
   Author: https://www.svgrepo.com/svg/489281/api
   License: Attribution CC BY
+```
+
+## plug.svg
+
+```
+Icon License:
+  Author: https://github.com/twbs/icons
+  License: MIT (https://github.com/twbs/icons/blob/79aca213d4c863257fdc90b3b879f35eca15a5e4/LICENSE)
 ```
 
 ## rudderstack.svg
