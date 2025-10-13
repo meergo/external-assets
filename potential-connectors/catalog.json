@@ -1,0 +1,128 @@
+{
+    "connectors": [
+        {
+            "code": "helpscout",
+            "label": "HelpScout",
+            "categories": [
+                "CRM"
+            ],
+            "connectorType": "App",
+            "asSource": {
+                "description": "Import customers as users from HelpScout",
+                "implemented": false,
+                "comingSoon": false
+            },
+            "asDestination": {
+                "description": "Export users as customers to HelpScout",
+                "implemented": false,
+                "comingSoon": false
+            }
+        },
+        {
+            "code": "bigquery",
+            "label": "BigQuery",
+            "categories": [
+                "Database"
+            ],
+            "connectorType": "Database",
+            "asSource": {
+                "description": "Import users from BigQuery",
+                "implemented": false,
+                "comingSoon": false
+            },
+            "asDestination": {
+                "description": "Export users to BigQuery",
+                "implemented": false,
+                "comingSoon": false
+            }
+        },
+        {
+            "code": "shopify",
+            "label": "Shopify",
+            "categories": [
+                "E-commerce"
+            ],
+            "connectorType": "App",
+            "asSource": {
+                "description": "Import customers as users from Shopify",
+                "implemented": false,
+                "comingSoon": false
+            },
+            "asDestination": {
+                "description": "Export users as customers to Shopify",
+                "implemented": false,
+                "comingSoon": false
+            }
+        },
+        {
+            "code": "firestore",
+            "label": "Firestore",
+            "categories": [
+                "Database"
+            ],
+            "connectorType": "Database",
+            "asSource": {
+                "description": "Import users from your Firestore database",
+                "implemented": false,
+                "comingSoon": false
+            },
+            "asDestination": {
+                "description": "Export users to your Firestore database",
+                "implemented": false,
+                "comingSoon": false
+            }
+        },
+        {
+            "code": "apple",
+            "label": "Apple",
+            "categories": [
+                "SDK & API"
+            ],
+            "connectorType": "SDK",
+            "asSource": {
+                "description": "Import users and events with the Apple SDK",
+                "implemented": false,
+                "comingSoon": true
+            }
+        },
+        {
+            "code": "kafka",
+            "label": "Kafka",
+            "categories": [
+                "Event streaming"
+            ],
+            "connectorType": "Stream",
+            "asSource": {
+                "description": "Import events and users from Kafka",
+                "implemented": false,
+                "comingSoon": true
+            }
+        },
+        {
+            "code": "rabbitmq",
+            "label": "RabbitMQ",
+            "categories": [
+                "Event streaming"
+            ],
+            "connectorType": "Stream",
+            "asSource": {
+                "description": "Import events and users from RabbitMQ",
+                "implemented": false,
+                "comingSoon": true
+            }
+        },
+        {
+            "code": "amplitude",
+            "label": "Amplitude",
+            "categories": [
+                "Analytics"
+            ],
+            "connectorType": "App",
+            "asDestination": {
+                "description": "Send events to Amplitude",
+                "implemented": false,
+                "comingSoon": false
+            }
+        }
+    ]
+}
