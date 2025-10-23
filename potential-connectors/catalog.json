@@ -4,9 +4,9 @@
             "code": "helpscout",
             "label": "HelpScout",
             "categories": [
-                "CRM"
+                "SaaS"
             ],
-            "connectorType": "App",
+            "connectorType": "API",
             "asSource": {
                 "description": "Import customers as users from HelpScout",
                 "implemented": false,
@@ -40,9 +40,9 @@
             "code": "shopify",
             "label": "Shopify",
             "categories": [
-                "E-commerce"
+                "SaaS"
             ],
-            "connectorType": "App",
+            "connectorType": "API",
             "asSource": {
                 "description": "Import customers as users from Shopify",
                 "implemented": false,
@@ -76,7 +76,7 @@
             "code": "apple",
             "label": "Apple",
             "categories": [
-                "SDK & API"
+                "SDK"
             ],
             "connectorType": "SDK",
             "asSource": {
@@ -89,9 +89,9 @@
             "code": "kafka",
             "label": "Kafka",
             "categories": [
-                "Event streaming"
+                "Message Broker"
             ],
-            "connectorType": "Stream",
+            "connectorType": "MessageBroker",
             "asSource": {
                 "description": "Import events and users from Kafka",
                 "implemented": false,
@@ -102,9 +102,9 @@
             "code": "rabbitmq",
             "label": "RabbitMQ",
             "categories": [
-                "Event streaming"
+                "Message Broker"
             ],
-            "connectorType": "Stream",
+            "connectorType": "MessageBroker",
             "asSource": {
                 "description": "Import events and users from RabbitMQ",
                 "implemented": false,
@@ -115,9 +115,9 @@
             "code": "amplitude",
             "label": "Amplitude",
             "categories": [
-                "Analytics"
+                "SaaS"
             ],
-            "connectorType": "App",
+            "connectorType": "API",
             "asDestination": {
                 "description": "Send events to Amplitude",
                 "implemented": false,
