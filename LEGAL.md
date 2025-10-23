@@ -14,6 +14,7 @@
 - [segment.svg](#segmentsvg)
 - [shopify.svg](#shopifysvg)
 - [typescript.svg](#typescriptsvg)
+- [webhook.svg](#webhooksvg)
 
 ## amplitude.svg
 
@@ -133,3 +134,10 @@ Icon License:
   License: MIT
 ```
 
+## webhook.svg
+
+```
+Icon License:
+  Author: https://www.svgrepo.com/author/etn-ccis/
+  License: MIT
+```
