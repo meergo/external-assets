@@ -83,7 +83,7 @@ func validateConnector(connector map[string]any) error {
 		return errors.New("missing field 'connectorType'")
 	}
 	switch connectorType {
-	case "App", "Database", "File", "FileStorage", "SDK", "Stream":
+	case "API", "Database", "File", "FileStorage", "MessageBroker", "SDK", "Webhook":
 		// Ok.
 	default:
 		return fmt.Errorf("invalid value for 'connectorType': %q", connectorType)
