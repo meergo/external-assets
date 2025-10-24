@@ -76,7 +76,7 @@
             "code": "apple",
             "label": "Apple",
             "categories": [
-                "SDK & API"
+                "SDK"
             ],
             "connectorType": "SDK",
             "asSource": {
